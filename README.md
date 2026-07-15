@@ -1,5 +1,12 @@
 # Chrome DevTools MCP
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![npm version](https://img.shields.io/npm/v/chrome-devtools-mcp?style=flat-square&logo=npm&color=blue) ![npm downloads](https://img.shields.io/npm/dw/chrome-devtools-mcp?style=flat-square&color=brightgreen) ![npm license](https://img.shields.io/npm/l/chrome-devtools-mcp?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-0.17.0-blue?style=flat-square)](https://www.npmjs.com/package/chrome-devtools-mcp)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 [![npm chrome-devtools-mcp package](https://img.shields.io/npm/v/chrome-devtools-mcp.svg)](https://npmjs.org/package/chrome-devtools-mcp)
 
 `chrome-devtools-mcp` lets your coding agent (such as Gemini, Claude, Cursor or Copilot)
